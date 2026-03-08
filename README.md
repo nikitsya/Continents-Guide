@@ -60,11 +60,3 @@ The quiz screen includes:
 ## Usage
 
 To run the Continents Guide App, clone the repository and open the project in Android Studio. Build and run the app on an emulator or a physical device.
-
-## Contributors
-
-- Nikita Smiichyk (@smiichyk)
-
-## License
-
-See the [MIT License](LICENSE) file for details.
